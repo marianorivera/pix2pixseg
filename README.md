@@ -13,8 +13,8 @@ Usa CelebA_HQ
 * 30,000 imágenes de rostros 
 * 30,000 imágenes de mapas de etiquetas con 18 clases
 
+!(imagenes)[segmap.png]
+
 Las imágenes estan codificadas en nive de gris [0, 10, 20,...,180]
-
-
 
 
